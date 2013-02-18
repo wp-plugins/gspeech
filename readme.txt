@@ -2,8 +2,8 @@
 Contributors: 2glux
 Author: 2GLux
 Tags: text to speech, speech, tts, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
-Requires at least: 1.0.1
-Tested up to: 1.0.1
+Requires at least: 2.3
+Tested up to: 3.5
 Stable tag: 1.0.1
 
 GSpeech is a text to speech solution which uses Google Translate and allows to listen any selected text on your site!
