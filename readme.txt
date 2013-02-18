@@ -1,7 +1,7 @@
 === gspeech ===
 Contributors: 2glux
 Author: 2GLux
-Tags: text to speech, speech, tts, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
+Tags: text to speech, speech, tts, text, speech, javascript, plugin, Google, Google Translate, greetings, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 2.3
 Tested up to: 3.5
 Stable tag: 1.0.1
@@ -10,7 +10,8 @@ GSpeech is a text to speech solution which uses Google Translate and allows to l
 
 == Description ==
 
-GSpeech [GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
+GSpeech [GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy! 
+See [Live Demo]((http://2glux.com/projects/gspeech/demo)
 
 **Download the latest version**
 [Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
