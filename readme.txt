@@ -1,7 +1,7 @@
 === GSpeech ===
 Contributors: 2glux
 Author: 2GLux
-Tags: text to speech, speech, tts, text, speech, javascript, plugin, Google, Google Translate, greetings, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
+Tags: text to speech, speech, tts, text, speech, javascript, plugin, Google, Google Translate, greetings, page, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 2.3
 Tested up to: 3.5
 Stable tag: 1.0.1
