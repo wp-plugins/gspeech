@@ -1,4 +1,4 @@
-=== gspeech ===
+=== GSpeech ===
 Contributors: 2glux
 Author: 2GLux
 Tags: text to speech, speech, tts, text, speech, javascript, plugin, Google, Google Translate, greetings, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
@@ -6,16 +6,17 @@ Requires at least: 2.3
 Tested up to: 3.5
 Stable tag: 1.0.1
 
-GSpeech is a text to speech solution which uses Google Translate and allows to listen any selected text on your site!
+GSpeech is a text to speech solution which allows to listen any selected text on your site, and much more!
 
 == Description ==
 
-GSpeech [GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy! 
-See [Live Demo]((http://2glux.com/projects/gspeech/demo)
+[GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy! 
+See [Live Demo](http://2glux.com/projects/gspeech/demo)
 
 **Download the latest version**
 [Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
 
+= Features =
 * Allows to listen any text from the site.
 * Listen to selected text. Speaker will apear, when You select a part of the text.
 * Autoplay Feature.
@@ -28,7 +29,15 @@ See [Live Demo]((http://2glux.com/projects/gspeech/demo)
 * Ability to set custom style and language for each TTS block.
 * Customizable TTS block styles.
 
+= Support =
 Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests!
+
+== Frequently Asked Questions ==
+
+= Can I hide the GSpeech Backlink? =
+
+Yes!  This option available with our 
+[GSpeech PRO Version](http://2glux.com/projects/gspeech)
 
 Keywords: [gspeech](http://2glux.com/projects/gspeech)
 
@@ -40,3 +49,8 @@ Keywords: [gspeech](http://2glux.com/projects/gspeech)
 4. Go to Settings > GSpeech.
 5. Configure settings to your needs.
 6. Have fun!
+
+== Screenshots == 
+
+1. GSpeech styles preview.
+2. GSpeech Box.
