@@ -6,11 +6,12 @@ Requires at least: 2.3
 Tested up to: 3.5
 Stable tag: trunk
 
-GSpeech is a text to speech solution which uses Google power and allows to listen any selected text on your site! [Live Demo](http://2glux.com/projects/gspeech/demo)
+GSpeech is a text to speech solution which uses Google power and allows to listen any selected text on your site!
 
 == Description ==
 
-[GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy! 
+[GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
+
 See [Live Demo](http://2glux.com/projects/gspeech/demo)
 
 **Download the latest version**
