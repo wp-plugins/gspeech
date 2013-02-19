@@ -6,7 +6,7 @@ Requires at least: 2.3
 Tested up to: 3.5
 Stable tag: 1.0.1
 
-GSpeech is a text to speech solution which allows to listen any selected text on your site, and much more!
+GSpeech is a text to speech solution which uses Google power and allows to listen any selected text on your site!
 
 == Description ==
 
@@ -52,5 +52,5 @@ Keywords: [gspeech](http://2glux.com/projects/gspeech)
 
 == Screenshots == 
 
-1. GSpeech styles preview.
-2. GSpeech Box.
+1. GSpeech styles preview
+2. GSpeech Box
