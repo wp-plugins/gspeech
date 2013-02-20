@@ -43,7 +43,7 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 ***GSpeech structure with all parameters will be***
 {gspeech style=2 language=en autoplay=1 speechtimeout=0 registered=0 selector=anyselector event=anyevent hidespeaker=1}welcome{/gspeech}
 
-For more details, please read the [documentation](http://2glux.com/projects/gspeech/documentation)
+For more details, please read the [Documentation](http://2glux.com/projects/gspeech/documentation).
 
 
 = Support =
