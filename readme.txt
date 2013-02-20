@@ -1,7 +1,7 @@
 === GSpeech ===
 Contributors: 2glux
 Author: 2GLux
-Tags: text to speech, speech, tts, html5, media, network, Post, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
+Tags: text to speech, speech, tts, html5, html, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 2.3
 Tested up to: 3.5
 Stable tag: 1.0.1
@@ -14,7 +14,7 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 
 See [Live Demo](http://2glux.com/projects/gspeech/demo)
 
-**Download the latest version**
+= Download the latest version =
 [Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
 
 = Features =
@@ -29,6 +29,19 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 * Place speaker wherever you want.
 * Ability to set custom style and language for each TTS block.
 * Customizable TTS block styles.
+
+= Usage - Creating Text to Speech blocks. =
+
+* ***Basic structure*** - If you want the speaker to appear after the text, do the following.
+`{gspeech}Text to speech{/gspeech}`
+
+* ***Structure with parameters*** - You can specify custom styles and language for each Text to Speech block.
+`{gspeech style=2 language=en}Custom text to speech{/gspeech}`
+
+* ***GSpeech structure with all parameters will be***
+`{gspeech style=2 language=en autoplay=1 speechtimeout=0 registered=0 selector=anyselector event=anyevent hidespeaker=1}welcome{/gspeech}`
+
+For more details, please read the [Documentation](http://2glux.com/projects/gspeech/documentation).
 
 = Support =
 Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests!
