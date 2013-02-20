@@ -33,13 +33,13 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 = Usage - Creating Text to Speech blocks. =
 
 * ***Basic structure*** - If you want the speaker to appear after the text, do the following.
-{gspeech}Text to speech{/gspeech}
+`{gspeech}Text to speech{/gspeech}`
 
 * ***Structure with parameters*** - You can specify custom styles and language for each Text to Speech block.
-{gspeech style=2 language=en}Custom text to speech{/gspeech}
+`{gspeech style=2 language=en}Custom text to speech{/gspeech}`
 
 * ***GSpeech structure with all parameters will be***
-{gspeech style=2 language=en autoplay=1 speechtimeout=0 registered=0 selector=anyselector event=anyevent hidespeaker=1}welcome{/gspeech}
+`{gspeech style=2 language=en autoplay=1 speechtimeout=0 registered=0 selector=anyselector event=anyevent hidespeaker=1}welcome{/gspeech}`
 
 For more details, please read the [Documentation](http://2glux.com/projects/gspeech/documentation).
 
