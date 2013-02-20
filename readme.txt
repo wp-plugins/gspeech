@@ -12,9 +12,10 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 
 [GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
 
-See [Live Demo](http://2glux.com/projects/gspeech/demo)
+= See [Live Demo](http://2glux.com/projects/gspeech/demo) =
 
 **Download the latest version**
+
 [Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
 
 = Features =
@@ -29,6 +30,24 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 * Place speaker wherever you want.
 * Ability to set custom style and language for each TTS block.
 * Customizable TTS block styles.
+
+= Usage =
+**Creating Text to Speech blocks.**
+
+*Basic structure* - If you want the speaker to appear after the text, do the following.
+
+{gspeech}Text to speech{/gspeech}
+
+*Structure with parameters* - You can specify custom styles and language for each Text to Speech block.
+
+{gspeech style=2 language=en}Custom text to speech{/gspeech}
+
+***GSpeech structure with all parameters will be***
+
+{gspeech style=2 language=en autoplay=1 speechtimeout=0 registered=0 selector=anyselector event=anyevent hidespeaker=1}welcome{/gspeech}
+
+For more details, please read the [documentation](http://2glux.com/projects/gspeech/documentation)
+
 
 = Support =
 Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests!
