@@ -1,7 +1,7 @@
 === GSpeech ===
 Contributors: 2glux
 Author: 2GLux
-Tags: text to speech, speech, tts, html5, html, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
+Tags: text to speech, speech, tts, html5, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 2.3
 Tested up to: 3.5
 Stable tag: 1.0.1
@@ -18,7 +18,7 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 [Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
 
 = Features =
-* Allows to listen any text from the site.
+* Allows to listen any text from the site!
 * Listen to selected text. Speaker will apear, when You select a part of the text.
 * Autoplay Feature.
 * Feature to set greeting audio for your users.
