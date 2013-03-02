@@ -1,7 +1,7 @@
 === GSpeech ===
 Contributors: 2glux
 Author: 2GLux
-Tags: text to speech, speech, tts, html5, html, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
+Tags: text to speech, speech, tts, html5, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 2.3
 Tested up to: 3.5
 Stable tag: 1.0.1
@@ -17,20 +17,22 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 = Download the latest version =
 [Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
 
-= Features =
-* Allows to listen any text from the site!
-* Listen to selected text. Speaker will apear, when You select a part of the text!
-* Autoplay Feature!
-* Feature to set greeting audio for your users!
-* Speaking menus! Users can listen menus when they hover them!
-* Ability to set custom events!
-* More than 50 languages supported by Google!
-* Unlimited text to speech!
-* Place speaker wherever you want!
-* Ability to set custom style and language for each TTS block!
-* Customizable TTS block styles!
+### Features:
+* Allows to listen any text from the site.
+* Listen to selected text. Speaker will apear, when You select a part of the text.
+* Autoplay Feature.
+* Feature to set greeting audio for your users.
+* Speaking menus. Users can listen menus when they hover them.
+* Ability to set custom events.
+* More than 50 languages supported by Google.
+* Unlimited text to speech.
+* Place speaker wherever you want.
+* Ability to set custom style and language for each TTS block.
+* Customizable TTS block styles.
 
-= Usage - Creating Text to Speech blocks. =
+###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com).
+
+### Usage - Creating Text to Speech blocks.
 
 * ***Basic structure*** - If you want the speaker to appear after the text, do the following!
 `{gspeech}Text to speech{/gspeech}`
@@ -43,7 +45,7 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 
 For more details, please read the [Documentation](http://2glux.com/projects/gspeech/documentation).
 
-= Support =
+### Support:
 Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests.
 
 = Requirements =
