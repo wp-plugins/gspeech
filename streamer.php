@@ -1,6 +1,13 @@
 <?php
 
-$txt = urlencode($_GET['q']);
+$txt = $_GET['q'];
+$txt = strip_tags($txt);
+$txt = preg_replace('/<script\b[^>]*>(.*?)<\/script>/si', "", $txt);
+$txt = preg_replace('/<style\b[^>]*>(.*?)<\/style>/si', "", $txt);
+$txt = str_replace(array("\"","'"),"",$txt);
+$txt = str_replace("&nbsp;","",$txt);
+$txt = urlencode($txt);
+
 $lang = (string)$_GET['l'];
 if($_GET['tr_tool'] == 'g') {
     $type = 'audio/mpeg';
