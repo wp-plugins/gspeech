@@ -22,17 +22,14 @@ $(document).ready(function() {
 		
 		if($tooltip.find('.the-tooltip').hasClass('center')) {
 			var final_offset = -1 * ((tooltip_width / 2) * 1 + 14 * 1 - center_offset_x * 1);
-			console.log(final_offset);
 			$tooltip.css({'left': final_offset, opacity: 0,display: 'block'});
 		}
 		else if($tooltip.find('.the-tooltip').hasClass('left')) {
 			var final_offset = -32 * 1 + center_offset_x * 1;
-			console.log(final_offset);
 			$tooltip.css({'left': final_offset, opacity: 0,display: 'block'});
 		}
 		else if($tooltip.find('.the-tooltip').hasClass('right')) {
 			var final_offset = 32 * 1 + center_offset_x * 1;
-			console.log(final_offset);
 			$tooltip.css({'left': final_offset, opacity: 0,display: 'block'});
 		}
 		
@@ -307,7 +304,6 @@ $(document).ready(function() {
 		roll = roll == '' ? 1 : roll;
 		--roll;
 		
-		console.log($elem.attr("class"));
 		var speaker_op = parseFloat(gspeech_spop[roll] / 100);
 		$elem.stop().removeClass('active');
 		
