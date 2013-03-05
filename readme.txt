@@ -12,7 +12,10 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 
 [GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
 
-See [Live Demo](http://2glux.com/projects/gspeech/demo)
+= See = 
+[Live Demo](http://2glux.com/projects/gspeech/demo)
+[Documentation](http://2glux.com/projects/gspeech/documentation)
+[Support Forum](http://2glux.com/forum/gspeech/)
 
 = Download the latest version =
 [Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
@@ -20,8 +23,9 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 ### Features:
 * Allows to listen any text from the site.
 * Listen to selected text. Speaker will apear, when You select a part of the text.
-* Autoplay Feature.
-* Feature to set greeting audio for your users.
+* Autoplay Feature. [See Demo](http://2glux.com/projects/gspeech/demo)
+* Feature to set greeting audio for your users. 
+* Feature to set different greetings for loged in users.
 * Speaking menus. Users can listen menus when they hover them.
 * Ability to set custom events.
 * More than 50 languages supported by Google.
@@ -33,7 +37,7 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 * Customizable tooltip styles.
 * Live preview in administration panel
 
-= IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com). =
+###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com).
 
 ### Usage - Creating Text to Speech blocks.
 
@@ -52,7 +56,7 @@ For more details, please read the [Documentation](http://2glux.com/projects/gspe
 Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests.
 
 = Requirements =
-You must have curl library enabled on your hosting.
+You must have [curl](http://php.net/manual/en/book.curl.php) library enabled on your hosting.
 
 == Frequently Asked Questions ==
 
