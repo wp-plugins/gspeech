@@ -26,7 +26,7 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 * Autoplay Feature. [See Demo](http://2glux.com/projects/gspeech/demo)
 * Feature to set greeting audio for your users. 
 * Feature to set different greetings for loged in users.
-* Speaking menus. Users can listen menus when they hover them.
+* Speaking menus. Users can listen menus when they hover them!
 * Ability to set custom events.
 * More than 50 languages supported by Google.
 * Unlimited text to speech.
