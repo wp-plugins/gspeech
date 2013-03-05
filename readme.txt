@@ -13,10 +13,8 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 [GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
 
 = See = 
-
-[Live Demo](http://2glux.com/projects/gspeech/demo)
-
-[Documentation](http://2glux.com/projects/gspeech/documentation)
+[Live Demo](http://2glux.com/projects/gspeech/demo), 
+[Documentation](http://2glux.com/projects/gspeech/documentation), 
 [Support Forum](http://2glux.com/forum/gspeech/)
 
 = Download the latest version =
