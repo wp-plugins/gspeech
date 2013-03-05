@@ -33,7 +33,7 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 * Customizable tooltip styles.
 * Live preview in administration panel
 
-###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com).
+= IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com). =
 
 ### Usage - Creating Text to Speech blocks.
 
