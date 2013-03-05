@@ -66,13 +66,15 @@ Keywords: [gspeech](http://2glux.com/projects/gspeech)
 == Installation ==
 
 1. Unzip files.
-2. Upload "gspeech" folder into your plugins directory.
-3. Activate the plugin.
-4. Go to Settings > GSpeech.
+2. Upload the entire gspeech folder to the /wp-content/plugins/ directory.
+3. Activate the plugin through the 'Plugins' menu in WordPress.
+4. You will find 'GSpeech' menu in your WordPress admin panel.
 5. Configure settings to your needs.
 6. Have fun!
 
 == Screenshots == 
 
-1. GSpeech styles preview
-2. GSpeech Box
+1. Blue style customization
+2. Red style customization
+3. GSpeech styles preview
+4. GSpeech Box
