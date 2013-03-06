@@ -32,10 +32,10 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 * Unlimited text to speech.
 * Place speaker wherever you want.
 * Ability to set custom style and language for each TTS block.
-* 40 speaker types.
+* 40 speaker types!
 * Customizable TTS block styles.
-* Customizable tooltip styles.
-* Live preview in administration panel
+* Customizable tooltip styles!
+* Live preview in administration panel!
 
 ###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com).
 
