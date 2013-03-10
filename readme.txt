@@ -31,7 +31,7 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 * More than 50 languages supported by Google.
 * Unlimited text to speech.
 * Place speaker wherever you want.
-* Ability to set custom style and language for each TTS block.
+* Ability to set custom style and language for each TTS block!
 * 40 speaker types!
 * Customizable TTS block styles.
 * Customizable tooltip styles!
