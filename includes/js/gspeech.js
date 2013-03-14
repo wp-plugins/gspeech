@@ -6,7 +6,7 @@ $(document).ready(function() {
 		return false;
 	});
 
-	document.onmousedown = function(e){
+	$(document).mousedown(function(e){
 		var w = parseInt(e.which);
 		if(w == 3) {
 			return false;
@@ -41,7 +41,7 @@ $(document).ready(function() {
 			else
 				clearSelection();
 		}
-	};
+	});
 	
 	$("body").keydown(function(e) {
 		if(e.keyCode == 13) {
