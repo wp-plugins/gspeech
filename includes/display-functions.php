@@ -4,6 +4,7 @@
 
 function wpgs_prepare_html($content) {
 
+	global $plugin_version;
 	global $wpgs_options;;
 	global $plugin_folder_name;
 	
@@ -148,7 +149,7 @@ function wpgs_prepare_html($content) {
 	$tooltips_array = array("1" => $tooltip_1, "2" => $tooltip_2, "3" => $tooltip_3, "4" => $tooltip_4, "5" => $tooltip_5);
 	
 	$code_path =  plugins_url() . '/'. $plugin_folder_name .'/';
-	$gspeech_js = $speak_any_text == 1 ? '<script src="'.$code_path.'includes/js/gspeech.js"></script>' : '';
+	$gspeech_js = $speak_any_text == 1 ? '<script src="'.$code_path.'includes/js/gspeech.js?ver='.$plugin_version.'"></script>' : '';
 	
 	//$speech_title = _e('Click to listen highlighted text!', 'wpgs_domain');
 	//$speech_powered_by = _e('Powered By', 'wpgs_domain');
@@ -188,7 +189,7 @@ function wpgs_prepare_html($content) {
 		    	gspeech_spoa = ["{$spoa1}","{$spoa2}","{$spoa3}","{$spoa4}","{$spoa5}"],
 		    	gspeech_animation_time = ["{$animation_time_1}","{$animation_time_2}","{$animation_time_3}","{$animation_time_4}","{$animation_time_5}"];
         </script>
-        <script type="text/javascript" src="{$code_path}includes/js/gspeech_pro.js"></script>
+        <script type="text/javascript" src="{$code_path}includes/js/gspeech_pro.js?ver={$plugin_version}"></script>
         {$gspeech_js}
         <!--[if (gte IE 6)&(lte IE 8)]>
 		<script defer src="{$code_path}includes/js/nwmatcher-1.2.4-min.js"></script>
@@ -329,9 +330,13 @@ EOM;
 	return $content;
 }
 
+function is_login_page() {
+	return in_array($GLOBALS['pagenow'], array('wp-login.php', 'wp-register.php'));
+}
+
 function wpgs_start_speeching() {
 	//return on admin
-	if(is_admin())
+	if(is_admin() || is_login_page())
 		return;
 	ob_start("wpgs_prepare_html");
 }

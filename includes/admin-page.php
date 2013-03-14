@@ -129,12 +129,11 @@ function wpgs_load_admin_scripts() {
 	wp_enqueue_style('wpgs-styles11', plugin_dir_url( __FILE__ ) . 'css/colorpicker.css');
 	wp_enqueue_style('wpgs-styles12', plugin_dir_url( __FILE__ ) . 'css/layout.css');
 	wp_enqueue_style('wpgs-styles13', plugin_dir_url( __FILE__ ) . 'css/the-tooltip.css');
-	wp_enqueue_script("jquery");
-	wp_enqueue_script('wpgs-script7', plugin_dir_url( __FILE__ ) . 'js/jquery-ui-1.10.1.custom.min.js');
-	wp_enqueue_script('wpgs-script14', plugin_dir_url( __FILE__ ) . 'js/colorpicker.js');
-	wp_enqueue_script('wpgs-script12', plugin_dir_url( __FILE__ ) . 'js/eye.js');
-	wp_enqueue_script('wpgs-script13', plugin_dir_url( __FILE__ ) . 'js/utils.js');
-	wp_enqueue_script('wpgs-script15', plugin_dir_url( __FILE__ ) . 'js/admin.js');
+	
+	wp_enqueue_script('wpgs-script14', plugin_dir_url( __FILE__ ) . 'js/colorpicker.js', array('jquery'));
+	wp_enqueue_script('wpgs-script12', plugin_dir_url( __FILE__ ) . 'js/eye.js', array('jquery'));
+	wp_enqueue_script('wpgs-script13', plugin_dir_url( __FILE__ ) . 'js/utils.js', array('jquery'));
+	wp_enqueue_script('wpgs-script15', plugin_dir_url( __FILE__ ) . 'js/admin.js',array('jquery','jquery-ui-core','jquery-ui-accordion','jquery-ui-tabs','jquery-ui-slider'));
 }
 
 add_action('admin_menu', 'wpgs_add_options_link');

@@ -12,7 +12,10 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 
 [GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
 
-See [Live Demo](http://2glux.com/projects/gspeech/demo)
+= See = 
+[Live Demo](http://2glux.com/projects/gspeech/demo)  
+[Documentation](http://2glux.com/projects/gspeech/documentation)  
+[Support Forum](http://2glux.com/forum/gspeech/)
 
 = Download the latest version =
 [Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
@@ -20,18 +23,19 @@ See [Live Demo](http://2glux.com/projects/gspeech/demo)
 ### Features:
 * Allows to listen any text from the site.
 * Listen to selected text. Speaker will apear, when You select a part of the text.
-* Autoplay Feature.
-* Feature to set greeting audio for your users.
-* Speaking menus. Users can listen menus when they hover them.
+* Autoplay Feature. [See Demo](http://2glux.com/projects/gspeech/demo)
+* Feature to set greeting audio for your users. 
+* Feature to set different greetings for loged in users.
+* Speaking menus. Users can listen menus when they hover them!
 * Ability to set custom events.
 * More than 50 languages supported by Google.
 * Unlimited text to speech.
 * Place speaker wherever you want.
-* Ability to set custom style and language for each TTS block.
-* 40 speaker types.
+* Ability to set custom style and language for each TTS block!
+* 40 speaker types!
 * Customizable TTS block styles.
-* Customizable tooltip styles.
-* Live preview in administration panel
+* Customizable tooltip styles!
+* Live preview in administration panel!
 
 ###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com).
 
@@ -52,7 +56,7 @@ For more details, please read the [Documentation](http://2glux.com/projects/gspe
 Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests.
 
 = Requirements =
-You must have curl library enabled on your hosting.
+You must have [curl](http://php.net/manual/en/book.curl.php) library enabled on your hosting.
 
 == Frequently Asked Questions ==
 
@@ -66,13 +70,15 @@ Keywords: [gspeech](http://2glux.com/projects/gspeech)
 == Installation ==
 
 1. Unzip files.
-2. Upload "gspeech" folder into your plugins directory.
-3. Activate the plugin.
-4. Go to Settings > GSpeech.
+2. Upload the entire gspeech folder to the /wp-content/plugins/ directory.
+3. Activate the plugin through the 'Plugins' menu in WordPress.
+4. You will find 'GSpeech' menu in your WordPress admin panel.
 5. Configure settings to your needs.
 6. Have fun!
 
 == Screenshots == 
 
-1. GSpeech styles preview
-2. GSpeech Box
+1. Blue style customization
+2. Red style customization
+3. GSpeech styles preview
+4. GSpeech Box

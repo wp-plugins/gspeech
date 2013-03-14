@@ -5,11 +5,11 @@ Plugin URI: http://2glux.com/projects/gspeech
 Description: GSpeech is a text to speech solution which allows to listen any selected text on your site! Please use <a href="http://2glux.com/forum/gspeech/">GSpeech Forum</a> for your support requests. See <a href="http://2glux.com/projects/gspeech/demo">GSpeech Demo</a>. 
 Author: 2GLux.com
 Author URI: http://2glux.com
-Version: 1.0.2
+Version: 1.0.3
 */
 
 $plugin_folder_name = 'gspeech';
-
+$plugin_version = '1.0.3';
 $wpgs_options = get_option('wpgs_settings');
 
 $default_bcp1 = '#ffffff';
