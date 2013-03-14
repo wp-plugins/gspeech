@@ -85,3 +85,9 @@ include('includes/scripts.php'); // this controls all JS / CSS
 include('includes/data-processing.php'); // this controls all saving of data
 include('includes/display-functions.php'); // display content functions
 include('includes/admin-page.php'); // the plugin options page HTML and save functions
+
+function wpgs_on_uninstall() {
+	delete_option('wpgs_settings');
+}
+
+register_uninstall_hook(__FILE__, 'wpgs_on_uninstall');
