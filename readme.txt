@@ -1,7 +1,7 @@
 === GSpeech ===
 Contributors: 2glux
 Author: 2GLux
-Tags: Russian, jquery, css, html5, shortcode, Google, Post, ajax, plugins, html, English, French, javascript, text to speech, text, society, media, sound, speech, Italian, simple, posts, pages, readability, Portuguese, page, plugin, accessibility, greetings, Hebrew, wordpress, German, speech, network, css3, Google Translate, Arabic, button, Spanish, Chinese, social, content, tts
+Tags: css3, speech, shortcode, plugins, css, html5, Spanish, tts, social, html, accessibility, network, text to speech, Hebrew, Russian, button, English, wordpress, German, society, pages, media, French, plugin, readability, javascript, page, jquery, posts, Arabic, Google, text, Post, ajax, speech, content, sound, Google Translate, Chinese, simple, Italian, greetings, Portuguese
 Requires at least: 3.5
 Tested up to: 3.5
 Stable tag: 1.0.3
