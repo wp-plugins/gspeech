@@ -4,7 +4,7 @@ Author: 2GLux
 Tags: text to speech, speech, tts, html5, html, css, css3, shortcode, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 3.5
 Tested up to: 3.5
-Stable tag: 1.0.4
+Stable tag: 1.0.3
 
 GSpeech is a text to speech solution which uses Google power and allows to listen any selected text on your site!
 
