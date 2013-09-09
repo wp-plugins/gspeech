@@ -1,7 +1,7 @@
 === GSpeech ===
 Contributors: 2glux
 Author: 2GLux
-Tags: text to speech, speech, tts, html5, htm, css, css3, shortcode, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
+Tags: text to speech, speech, tts, html5, html, css, css3, shortcode, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 3.5
 Tested up to: 3.5
 Stable tag: 1.0.3
@@ -30,10 +30,10 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 * Ability to set custom events.
 * More than 50 languages supported by Google.
 * Unlimited text to speech.
-* Place speaker wherever you want.
+* Place speaker wherever you want!
 * Ability to set custom style and language for each TTS block!
 * 40 speaker types!
-* Customizable TTS block styles.
+* Customizable TTS block styles!
 * Customizable tooltip styles!
 * Live preview in administration panel!
 
