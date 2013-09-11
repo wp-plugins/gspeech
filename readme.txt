@@ -1,7 +1,7 @@
 === GSpeech ===
 Contributors: 2glux
 Author: 2GLux
-Tags: text to speech, speech, tts, html5, html, css, css3, shortcode, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
+Tags: text to speech, speech, tts, html5, css, css3, shortcode, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 3.5
 Tested up to: 3.5
 Stable tag: 1.0.3
@@ -53,10 +53,10 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 For more details, please read the [Documentation](http://2glux.com/projects/gspeech/documentation).
 
 ### Support:
-Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests.
+Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests!
 
 = Requirements =
-You must have [curl](http://php.net/manual/en/book.curl.php) library enabled on your hosting.
+You must have [curl](http://php.net/manual/en/book.curl.php) library enabled on your hosting!
 
 == Frequently Asked Questions ==
 
