@@ -1,6 +1,6 @@
 === GSpeech ===
-Contributors: 2glux
-Author: 2GLux
+Contributors: 2glux,creative-solutions
+Author: 2GLux,creative-solutions
 Tags: text to speech, speech, tts, html5, html, css, css3, shortcode, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 3.5
 Tested up to: 3.5
