@@ -3,22 +3,22 @@ Contributors: creative-solutions
 Author: creative-solutions
 Tags: text to speech, speech, tts, html5, html, css, css3, shortcode, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
 Requires at least: 3.5
-Tested up to: 3.5
+Tested up to: 3.9.1
 Stable tag: 1.0.3
 
 GSpeech is a text to speech solution which uses Google power and allows to listen any selected text on your site!
 
 == Description ==
 
-[GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
+[GSpeech](http://creative-solutions.net/wordpress/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
 
 = See = 
-[Live Demo](http://2glux.com/projects/gspeech/demo)  
-[Documentation](http://2glux.com/projects/gspeech/documentation)  
-[Support Forum](http://2glux.com/forum/gspeech/)
+[Live Demo](http://creative-solutions.net/wordpress/gspeech/demo)  
+[Documentation](http://creative-solutions.net/wordpress/gspeech/documentation)  
+[Support Forum](http://creative-solutions.net/forum/gspeech-wordpress/)
 
 = Download the latest version =
-[Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
+[Download GSpeech](http://creative-solutions.net/wordpress/gspeech) from our website and enable the following features:
 
 ### Features:
 * Allows to listen any text from the site.
@@ -37,7 +37,7 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 * Customizable tooltip styles!
 * Live preview in administration panel!
 
-###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com).
+###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@creative-solutions.net](mailto:info@creative-solutions.net).
 
 ### Usage - Creating Text to Speech blocks.
 
@@ -63,9 +63,9 @@ You must have [curl](http://php.net/manual/en/book.curl.php) library enabled on 
 = Can I hide the GSpeech Backlink? =
 
 Yes!  This option available with our 
-[GSpeech PRO Version](http://2glux.com/projects/gspeech)
+[GSpeech PRO Version](http://creative-solutions.net/wordpress/gspeech)
 
-Keywords: [gspeech](http://2glux.com/projects/gspeech)
+Keywords: [gspeech](http://creative-solutions.net/wordpress/gspeech)
 
 == Installation ==
 

@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: GSpeech
-Plugin URI: http://2glux.com/projects/gspeech
-Description: GSpeech is a text to speech solution which allows to listen any selected text on your site! Please use <a href="http://2glux.com/forum/gspeech/">GSpeech Forum</a> for your support requests. See <a href="http://2glux.com/projects/gspeech/demo">GSpeech Demo</a>. 
-Author: 2GLux.com
-Author URI: http://2glux.com
+Plugin URI: http://creative-solutions.net/wordpress/gspeech
+Description: GSpeech is a text to speech solution which allows to listen any selected text on your site! Please use <a href="http://creative-solutions.net/forum/gspeech-wordpress/">GSpeech Forum</a> for your support requests. See <a href="http://creative-solutions.net/wordpress/gspeech/demo">GSpeech Demo</a>. 
+Author: Creative-Solutions
+Author URI: http://creative-solutions.net
 Version: 1.0.3
 */
 

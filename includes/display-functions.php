@@ -342,8 +342,10 @@ function wpgs_start_speeching() {
 }
 
 function wpgs_make_ob_end_flush() {
-	ob_end_flush();
+	if (ob_get_level() != 0) 
+		ob_end_flush();
 }
 register_shutdown_function('wpgs_make_ob_end_flush');
 add_action('wp_loaded', 'wpgs_start_speeching');
+
 ?>

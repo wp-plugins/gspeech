@@ -96,6 +96,78 @@ border: 1px solid #e6db55;
 .wpgs_slider {
 	width: 353px;
 }
+
+.purchase_block{
+	position: relative;
+    padding: 10px;
+    margin: 10px 0 17px 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+
+    color:#111;
+
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+
+    border: 1px solid #DFDFDF;
+    background-color: #EFEFEF;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#EFEFEF"); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#EFEFEF)); /* for webkit browsers */
+    background: -moz-linear-gradient(top,  #fff,  #EFEFEF); /* for firefox 3.6+ */
+}
+.purchase_block_txt {
+	color:#333;
+	margin-bottom: 6px;
+	text-shadow: 1px 1px 0px #fff;
+}
+
+#scf_buy_pro{
+border: 1px solid #F3C3BA;
+text-decoration: none;
+display: inline-block;
+font-weight: bold;
+cursor: pointer;
+background-color: #FD2600;
+padding: 12px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+color: #fff;
+font-size: 16px;
+text-shadow: 1px 1px 0px #000;
+background: -webkit-gradient(linear, left top, left bottom, from(#FD2600), to(#961600));
+background: -moz-linear-gradient(top,  #FD2600,  #961600); /* for firefox 3.6+ */
+
+box-shadow: 2px 2px 5px rgba(158, 20, 1, 0.4);
+}
+#scf_buy_pro:hover{
+box-shadow: 2px 2px 6px rgba(158, 20, 1, 0.65);
+text-shadow: 1px 1px 1px #000;
+}
+
+
+.buy_pro {
+	white-space: nowrap;
+	text-shadow: 0px 0px 22px rgba(255, 226, 10, 0.74);
+	top: 61px;
+	right: 4px;
+	position: absolute;
+	color: rgb(240, 12, 12);
+	display: block;
+	font-weight: normal;
+	font-size: 17px;
+}
+.pro_img {
+	width: 140px;
+	display: block;
+}
+.pro_wrapper {
+	position: absolute;
+	right: 21px;
+	top: 11px;
+}
+
 /***********************************************SPEAKERS***********************************************************************************/
 .sound_container_pro.speaker_1.size_0 {
 	background: transparent url("../images/16/speaker1.png") left top no-repeat;
