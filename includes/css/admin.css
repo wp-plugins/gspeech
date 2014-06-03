@@ -497,3 +497,10 @@ text-shadow: 1px 1px 1px #000;
 	position: relative;
 	height: 87px;
 }
+
+/*fixing rules*/
+.ext_info_wrapper .added_element {
+	position: relative;
+	height: 120px;
+	clear: both;
+}
