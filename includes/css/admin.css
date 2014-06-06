@@ -500,7 +500,11 @@ text-shadow: 1px 1px 1px #000;
 
 /*fixing rules*/
 .ext_info_wrapper .added_element {
-	position: relative;
 	height: 120px;
 	clear: both;
+	position: absolute;
+	color: rgb(240, 12, 12);
+	display: block;
+	font-weight: normal;
+	font-size: 17px;
 }
