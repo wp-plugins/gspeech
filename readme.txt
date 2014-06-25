@@ -1,16 +1,16 @@
-=== GSpeech ===
+=== GSpeech - The Best Text To Speech Solution ===
 Contributors: creative-solutions
 Author: creative-solutions
-Tags: text to speech, speech, tts, html5, html, css, css3, shortcode, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
+Tags: text to speech, tts, html5, html, css, css3, shortcode, media, network, Post, posts, social, society, text, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese, admin, AJAX, buddypress, category, comment, comments, contact, contact me, contact us, contacts, content, easy contact plugin, email, Facebook, feed, feedback, form, google, javascript, jquery, link, links, media, page, pages, plugin, Post, posts, request, rss, seo, shortcode, sidebar, stats, text, web form, widget, wordpress, contact, Attachment, shortcode, form solution, contact me, contacts, copy, feedback, request, send, send copy, text, email, ajax, captcha, multilingual, post, Posts, widget, shortcode, sidebar, html5, html, css, css3, shortcode, network, social, society, text, javascript, jquery, plugin, plugins, page, pages, ajax, content, simple, wordpress, iPad, iphone, mobile, secure, seo, tablet
 Requires at least: 3.5
 Tested up to: 3.9.1
 Stable tag: 1.0.3
 
-GSpeech is a text to speech solution which uses Google power and allows to listen any selected text on your site!
+GSpeech is a text to speech solution for WordPress! Over 5,270+ sites are already using GSpeech.
 
 == Description ==
 
-[GSpeech](http://creative-solutions.net/wordpress/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
+[GSpeech](http://creative-solutions.net/wordpress/gspeech) uses Google power and allows to listen any selected text on your site. It is the best text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
 
 = See = 
 [Live Demo](http://creative-solutions.net/wordpress/gspeech/demo)  
