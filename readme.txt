@@ -6,7 +6,7 @@ Requires at least: 3.5
 Tested up to: 3.9.1
 Stable tag: 1.0.3
 
-GSpeech is a text to speech solution for WordPress! Over 5,600+ sites are already using GSpeech.
+GSpeech is a text to speech solution for WordPress! Over 5,700+ sites are already using GSpeech.
 
 == Description ==
 
