@@ -6,7 +6,7 @@ Requires at least: 3.5
 Tested up to: 3.9.1
 Stable tag: 1.0.3
 
-GSpeech is a text to speech solution for WordPress! Over 7,100+ sites are already using GSpeech.
+GSpeech is a text to speech solution for WordPress! Over 7,400+ sites are already using GSpeech.
 
 == Description ==
 
@@ -38,6 +38,10 @@ GSpeech is a text to speech solution for WordPress! Over 7,100+ sites are alread
 * Customizable tooltip styles!
 * Live preview in administration panel!
 
+### Other Creative Plugins:
+> * [Creative Contact Form](https://wordpress.org/plugins/sexy-contact-form/) - Contact form builder for WordPress! [Live Demo](http://creative-solutions.net/wordpress/creative-contact-form/demo)
+> * [Creative Image Slider](https://wordpress.org/plugins/creative-image-slider/) - Powerful WordPress slider! [Live Demo](http://creative-solutions.net/wordpress/creative-image-slider/demo)
+
 ###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@creative-solutions.net](mailto:info@creative-solutions.net).
 
 ### Usage - Creating Text to Speech blocks.
@@ -54,7 +58,7 @@ GSpeech is a text to speech solution for WordPress! Over 7,100+ sites are alread
 For more details, please read the [Documentation](http://2glux.com/projects/gspeech/documentation).
 
 ### Support:
-Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests!
+Please `use` [GSpeech Forum](http://forum.creative-solutions.net/gspeech-wordpress/) for your questions and support requests!
 
 = Requirements =
 You must have [curl](http://php.net/manual/en/book.curl.php) library enabled on your hosting!
