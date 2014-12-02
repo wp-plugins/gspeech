@@ -16,7 +16,7 @@ GSpeech is a text to speech solution for WordPress! Over 7,500+ sites are alread
 
 > * [Live Demo](http://creative-solutions.net/wordpress/gspeech/demo)  
 > * [Documentation](http://creative-solutions.net/wordpress/gspeech/documentation)  
-> * [Support Forum](http://creative-solutions.net/forum/gspeech-wordpress/)
+> * [Support Forum](http://forum.creative-solutions.net/gspeech-wordpress/)
 
 = Download the latest version =
 [Download GSpeech](http://creative-solutions.net/wordpress/gspeech) from our website and enable the following features:
