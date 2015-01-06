@@ -1,3 +1,7 @@
 .gspeech_pro {
-	
+	position: relative;
+}
+.gspeech_pro_inlined {
+	position: relative;
+	z-index: 10001 !important;
 }
