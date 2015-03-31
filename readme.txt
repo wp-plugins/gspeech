@@ -39,8 +39,8 @@ GSpeech is a text to speech solution for WordPress! Over 7,500+ sites are alread
 * Live preview in administration panel!
 
 ### Other Creative Plugins:
-> * [Contact Form Generator](https://wordpress.org/plugins/contact-form-generator/) - Powerful Contact Form Maker! [Live Demo](http://creative-solutions.net/wordpress/contact-form-generator/demo)
 > * [Creative Image Slider](https://wordpress.org/plugins/creative-image-slider/) - Powerful WordPress slider! [Live Demo](http://creative-solutions.net/wordpress/creative-image-slider/demo)
+> * [Contact Form Generator](https://wordpress.org/plugins/contact-form-generator/) - Powerful Contact Form Maker! [Live Demo](http://creative-solutions.net/wordpress/contact-form-generator/demo)
 > * [Creative Contact Form](https://wordpress.org/plugins/sexy-contact-form/) - Contact form builder for WordPress! [Live Demo](http://creative-solutions.net/wordpress/creative-contact-form/demo)
 
 ###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@creative-solutions.net](mailto:info@creative-solutions.net).
