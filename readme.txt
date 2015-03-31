@@ -12,19 +12,16 @@ GSpeech is a text to speech solution for WordPress! Over 7,500+ sites are alread
 
 [GSpeech](http://creative-solutions.net/wordpress/gspeech) uses Google power and allows to listen any selected text on your site. It is the best text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
 
-> #### **See**
-
+### Useful Links:
 > * [Live Demo](http://creative-solutions.net/wordpress/gspeech/demo)  
+> * [Homepage](http://creative-solutions.net/wordpress/gspeech)  
 > * [Documentation](http://creative-solutions.net/wordpress/gspeech/documentation)  
 > * [Support Forum](http://forum.creative-solutions.net/gspeech-wordpress/)
-
-= Download the latest version =
-[Download GSpeech](http://creative-solutions.net/wordpress/gspeech) from our website and enable the following features:
 
 ### Features:
 * Allows to listen any text from the site.
 * Listen to selected text. Speaker will apear, when You select a part of the text.
-* Autoplay Feature. [See Demo](http://2glux.com/projects/gspeech/demo)
+* Autoplay Feature. [See Demo](http://creative-solutions.net/wordpress/gspeech/demo)
 * Feature to set greeting audio for your users. 
 * Feature to set different greetings for loged in users.
 * Speaking menus. Users can listen menus when they hover them!
@@ -39,8 +36,8 @@ GSpeech is a text to speech solution for WordPress! Over 7,500+ sites are alread
 * Live preview in administration panel!
 
 ### Other Creative Plugins:
-> * [Creative Image Slider](https://wordpress.org/plugins/creative-image-slider/) - Powerful WordPress slider! [Live Demo](http://creative-solutions.net/wordpress/creative-image-slider/demo)
 > * [Contact Form Generator](https://wordpress.org/plugins/contact-form-generator/) - Powerful Contact Form Maker! [Live Demo](http://creative-solutions.net/wordpress/contact-form-generator/demo)
+> * [Creative Image Slider](https://wordpress.org/plugins/creative-image-slider/) - Powerful WordPress slider! [Live Demo](http://creative-solutions.net/wordpress/creative-image-slider/demo)
 > * [Creative Contact Form](https://wordpress.org/plugins/sexy-contact-form/) - Contact form builder for WordPress! [Live Demo](http://creative-solutions.net/wordpress/creative-contact-form/demo)
 
 ###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@creative-solutions.net](mailto:info@creative-solutions.net).
