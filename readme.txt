@@ -39,8 +39,9 @@ GSpeech is a text to speech solution for WordPress! Over 7,500+ sites are alread
 * Live preview in administration panel!
 
 ### Other Creative Plugins:
-> * [Creative Contact Form](https://wordpress.org/plugins/sexy-contact-form/) - Contact form builder for WordPress! [Live Demo](http://creative-solutions.net/wordpress/creative-contact-form/demo)
+> * [Contact Form Generator](https://wordpress.org/plugins/contact-form-generator/) - Powerful Contact Form Maker! [Live Demo](http://creative-solutions.net/wordpress/contact-form-generator/demo)
 > * [Creative Image Slider](https://wordpress.org/plugins/creative-image-slider/) - Powerful WordPress slider! [Live Demo](http://creative-solutions.net/wordpress/creative-image-slider/demo)
+> * [Creative Contact Form](https://wordpress.org/plugins/sexy-contact-form/) - Contact form builder for WordPress! [Live Demo](http://creative-solutions.net/wordpress/creative-contact-form/demo)
 
 ###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@creative-solutions.net](mailto:info@creative-solutions.net).
 
@@ -55,7 +56,7 @@ GSpeech is a text to speech solution for WordPress! Over 7,500+ sites are alread
 * ***GSpeech structure with all parameters will be***
 `{gspeech style=2 language=en autoplay=1 speechtimeout=0 registered=0 selector=anyselector event=anyevent hidespeaker=1}welcome{/gspeech}`
 
-For more details, please read the [Documentation](http://2glux.com/projects/gspeech/documentation).
+For more details, please read the [Documentation](http://creative-solutions.net/wordpress/gspeech/documentation).
 
 ### Support:
 Please `use` [GSpeech Forum](http://forum.creative-solutions.net/gspeech-wordpress/) for your questions and support requests!
