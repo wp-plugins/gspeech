@@ -3,7 +3,7 @@ Contributors: creative-solutions
 Author: creative-solutions
 Tags: text to speech, tts, html5, html, css, shortcode, media, network, Post, posts, social, society, text, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese, admin, AJAX, buddypress, category, comment, comments, contact us, contacts, content, email, Facebook, feed, feedback, form, google, javascript, jquery, link, links, media, page, pages, plugin, Post, posts, request, rss, seo, shortcode, sidebar, stats, text, widget, wordpress, contact, Attachment, shortcode, copy, feedback, request, send, text, email, ajax, multilingual, post, Posts, widget, shortcode, sidebar, html5, html, css, css3, shortcode, network, social, society, text, javascript, jquery, plugin, plugins, page, pages, ajax, content, simple, wordpress, iPad, iphone, mobile, secure, seo, tablet
 Requires at least: 3.6
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 Stable tag: 1.0.3
 
 GSpeech is a text to speech solution for WordPress! Over 7,500+ sites are already using GSpeech.
