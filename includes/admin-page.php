@@ -80,7 +80,7 @@ function wpgs_options_page() {
 
 		<div class="ext_info_wrapper" >
 			<div class="ext_title_wrapper">
-				<a href="http://2glux.com/projects/gspeech" target="_blank">
+				<a href="http://creative-solutions.net/wordpress/gspeech" target="_blank">
 					<img src="<?php echo plugins_url( '/images/32/speaker32.png' , __FILE__ );?>" />
 					<?php _e('GSpeech Options','wpgs_domain');?>
 				</a>

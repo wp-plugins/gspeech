@@ -25,6 +25,6 @@
 	<div class="old_p">
 		<?php $value = $wpgs_options['greeting_text'] == '' ? '{gspeech style=1 language=en autoplay=1 speechtimeout=0 registered=2 hidespeaker=1}Welcome to SITENAME{/gspeech}{gspeech style=2 language=en autoplay=1 speechtimeout=0 registered=1 hidespeaker=1}Welcome REALNAME{/gspeech}' : $wpgs_options['greeting_text']?>
 		<textarea style="height: 120px;width: 460px;" id="wpgs_settings[greeting_text]" name="wpgs_settings[greeting_text]" type="text" ><?php echo $value; ?></textarea>
-		<label style="display: block" class="description" for="wpgs_settings[greeting_text]"><?php _e('Greeting text to speech. Write blank to not use greeting. Use SITENAME to get the site name, USERNAME to get username, REALNAME to get user real name.<br />For more details, please read the <a style="color: #21759b" href="http://2glux.com/projects/gspeech/documentation" target="_blank">documentation</a>', 'wpgs_domain'); ?></label>
+		<label style="display: block" class="description" for="wpgs_settings[greeting_text]"><?php _e('Greeting text to speech. Write blank to not use greeting. Use SITENAME to get the site name, USERNAME to get username, REALNAME to get user real name.<br />For more details, please read the <a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/documentation" target="_blank">documentation</a>', 'wpgs_domain'); ?></label>
 	</div>
 </div>

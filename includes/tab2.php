@@ -41,7 +41,7 @@
 				<div class="next_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_1]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_1]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		
@@ -59,7 +59,7 @@
 				<div class="next_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_1]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_1]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		<div class="old_p">
@@ -178,7 +178,7 @@
 				<div class="next_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_2]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_2]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		<div style="margin: 15px 0 0 0">
@@ -195,7 +195,7 @@
 				<div class="next_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_2]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_2]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		<div class="old_p">
@@ -314,7 +314,7 @@
 				<div class="next_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_3]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_3]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		<div style="margin: 15px 0 0 0">
@@ -331,7 +331,7 @@
 				<div class="next_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_3]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_3]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		<div class="old_p">
@@ -450,7 +450,7 @@
 				<div class="next_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_4]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_4]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		<div style="margin: 15px 0 0 0">
@@ -467,7 +467,7 @@
 				<div class="next_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_4]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_4]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		<div class="old_p">
@@ -586,7 +586,7 @@
 				<div class="next_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_speaker" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_5]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[speaker_type_5]"><?php _e('Choose Speaker <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#speakers" target="_blank">See speakers demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		<div style="margin: 15px 0 0 0">
@@ -603,7 +603,7 @@
 				<div class="next_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Next</div>
 				<div class="prev_tooltip" style='-moz-user-select: none;-webkit-user-select: none;' onselectstart='return false;'>Prev</div>
 			</div>
-			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_5]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://2glux.com/projects/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
+			<label style="float: left;display: block;margin-top: 7px;" class="description" for="wpgs_settings[tooltip_5]"><?php _e('Choose Tooltip <span style="font-size: 12px;"><a style="color: #21759b" href="http://creative-solutions.net/wordpress/gspeech/demo#tooltips" target="_blank">See tooltips demo</a></span>', 'wpgs_domain'); ?></label>
 		</div>
 		<div style="clear: both;height: 1px;"></div>
 		<div class="old_p">
