@@ -73,6 +73,11 @@ function wpgs_options_page() {
 			$speech_title = 'Click to listen highlighted text!';
 	ob_start(); ?>
 	<div class="wrap" style="overflow: hidden;margin-bottom: 10px">
+		<div class="purchase_block">
+			<div class="purchase_block_txt">Get GSpeech Pro and gain access to unlimited TTS blocks, no copyright, more features and professional support.</div>
+		    <a href="http://creative-solutions.net/wordpress/gspeech" id="scf_buy_pro" target="_blank">Get GSpeech PRO</a>
+		</div>
+
 		<div class="ext_info_wrapper" >
 			<div class="ext_title_wrapper">
 				<a href="http://2glux.com/projects/gspeech" target="_blank">
@@ -80,13 +85,6 @@ function wpgs_options_page() {
 					<?php _e('GSpeech Options','wpgs_domain');?>
 				</a>
 			</div>
-			<div class="pro_wrapper">
-				<a href="http://2glux.com/projects/gspeech"  target="_blank" >
-					<img src="<?php echo plugins_url( '/images/gspeech_txt.png' , __FILE__ );?>" class="pro_img" />
-					<span class="buy_pro">Get the full version</span>
-				</a>
-			</div>
-		
 		</div>
 		
 		<form method="post" action="options.php">

@@ -1,24 +1,24 @@
 === GSpeech ===
-Contributors: 2glux
-Author: 2GLux
-Tags: text to speech, speech, tts, html5, html, css, css3, shortcode, media, network, Post, posts, social, society, text, speech, javascript, jquery, plugin, plugins, Google, Google Translate, greetings, sound, accessibility, readability, page, pages, ajax, button, content, simple, wordpress, Spanish, French, Russian, English, Arabic, Portuguese, Hebrew, German, Italian, Chinese
+Contributors: creative-solutions
+Author: creative-solutions
+Tags: accessibility, admin, AJAX, arabic, Attachment, button, category, chinese, comment, comments, contact, contact us, contacts, content, copy, CSS, css3, email, english, Facebook, feed, feedback, form, french, german, google, google translate, greetings, hebrew, html, html5, iPad, iphone, italian, javascript, jquery, link, links, media, mobile, multilingual, network, page, pages, plugin, plugins, portuguese, Post, posts, readability, request, rss, Russian, secure, send, seo, shortcode, sidebar, simple, social, society, sound, spanish, stats, tablet, text, text-to-speech, tts, widget, wordpress
 Requires at least: 3.5
-Tested up to: 3.5
-Stable tag: 1.0.3
+Tested up to: 4.2.4
+Stable tag: 2.0.1
 
 GSpeech is a text to speech solution which uses Google power and allows to listen any selected text on your site!
 
 == Description ==
 
-[GSpeech](http://2glux.com/projects/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
+[GSpeech](http://creative-solutions.net/wordpress/gspeech) is a  text to speech solution for WordPress. It uses Google power to provide you the best quality of automatic text to speech service. Enjoy!
 
 = See = 
-[Live Demo](http://2glux.com/projects/gspeech/demo)  
-[Documentation](http://2glux.com/projects/gspeech/documentation)  
-[Support Forum](http://2glux.com/forum/gspeech/)
+[Live Demo](http://creative-solutions.net/wordpress/gspeech/demo)  
+[Documentation](http://creative-solutions.net/wordpress/gspeech/documentation)  
+[Support Forum](http://creative-solutions.net/forum/gspeech-wordpress/)
 
 = Download the latest version =
-[Download GSpeech](http://2glux.com/projects/gspeech) from our website and enable the following features:
+[Download GSpeech](http://creative-solutions.net/wordpress/gspeech) from our website and enable the following features:
 
 ### Features:
 * Allows to listen any text from the site.
@@ -27,17 +27,17 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 * Feature to set greeting audio for your users. 
 * Feature to set different greetings for loged in users.
 * Speaking menus. Users can listen menus when they hover them!
-* Ability to set custom events.
-* More than 50 languages supported by Google.
-* Unlimited text to speech.
-* Place speaker wherever you want.
+* Ability to set custom events!
+* More than 50 languages supported by Google!
+* Unlimited text to speech!
+* Place speaker wherever you want!
 * Ability to set custom style and language for each TTS block!
 * 40 speaker types!
-* Customizable TTS block styles.
+* Customizable TTS block styles!
 * Customizable tooltip styles!
 * Live preview in administration panel!
 
-###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com).
+###IMPORTANT: If you think you found a bug in GSpeech or have any problem or question concerning it, do not hesitate to contact us at [info@creative-solutions.net](mailto:info@creative-solutions.net).
 
 ### Usage - Creating Text to Speech blocks.
 
@@ -53,19 +53,19 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 For more details, please read the [Documentation](http://2glux.com/projects/gspeech/documentation).
 
 ### Support:
-Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests.
+Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests!
 
 = Requirements =
-You must have [curl](http://php.net/manual/en/book.curl.php) library enabled on your hosting.
+You must have [curl](http://php.net/manual/en/book.curl.php) library enabled on your hosting!
 
 == Frequently Asked Questions ==
 
 = Can I hide the GSpeech Backlink? =
 
 Yes!  This option available with our 
-[GSpeech PRO Version](http://2glux.com/projects/gspeech)
+[GSpeech PRO Version](http://creative-solutions.net/wordpress/gspeech)
 
-Keywords: [gspeech](http://2glux.com/projects/gspeech)
+Keywords: [gspeech](http://creative-solutions.net/wordpress/gspeech)
 
 == Installation ==
 
@@ -75,6 +75,11 @@ Keywords: [gspeech](http://2glux.com/projects/gspeech)
 4. You will find 'GSpeech' menu in your WordPress admin panel.
 5. Configure settings to your needs.
 6. Have fun!
+
+== Changelog ==
+
+= V 2.0.1 - 14/08/2015 =
+* Fixed issue with no-audio!
 
 == Screenshots == 
 

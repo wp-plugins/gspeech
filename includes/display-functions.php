@@ -157,7 +157,7 @@ function wpgs_prepare_html($content) {
 	$speech_powered_by = 'Powered By';
 	$gspeech_content = <<<EOM
         <span id="sexy_tooltip_title"><span class="the-tooltip top left {$tooltip_2}"><span class="tooltip_inner">{$speech_title}</span></span></span>
-        <span id="sexy_tooltip"><span class="the-tooltip bottom left dark-midnight-blue"><span class="tooltip_inner powered_by_3 powered_by">{$speech_powered_by} <a href="http://2glux.com/projects/gspeech" target="_blank" class="backlink_a">GSpeech</a></span></span></span>
+        <span id="sexy_tooltip"><span class="the-tooltip bottom left dark-midnight-blue"><span class="tooltip_inner powered_by_3 powered_by">{$speech_powered_by} <a href="http://creative-solutions.net/wordpress/gspeech" target="_blank" class="backlink_a">GSpeech</a></span></span></span>
         <div id="sound_container" class="sound_div sound_div_basic size_$speaker_size_2 $speaker_type_2" title="" style=""><div id="sound_text"></div>
         </div><div id="sound_audio"></div>
         <script type="text/javascript">
@@ -265,7 +265,7 @@ EOM;
         	<span class="gspeech_pro_main_wrapper">&nbsp;
         	<span class="sexy_tooltip"><span class="the-tooltip top left sexy_tooltip_'.$style_index.'"><span class="tooltip_inner">'.$speech_title.'</span></span></span>
         	<span class="sound_container_pro sound_div_'.$style_index.'" language="'.$matches[4].'" roll="'.$style_index.'" autoplaypro="'.$matches[6].'" speechtimeout="'.$matches[8].'" selector="'.$matches[12].'" eventpro="'.$matches[14].'" title="" style=""><span class="sound_text_pro">'.$htm.'</span></span>
-        	<span class="sexy_tooltip"><span class="the-tooltip bottom left dark-midnight-blue"><span class="tooltip_inner powered_by_3 powered_by">'.$speech_powered_by.' <a href="http://2glux.com/projects/gspeech" target="_blank" class="backlink_a">GSpeech</a></span></span></span>
+        	<span class="sexy_tooltip"><span class="the-tooltip bottom left dark-midnight-blue"><span class="tooltip_inner powered_by_3 powered_by">'.$speech_powered_by.' <a href="http://creative-solutions.net/wordpress/gspeech" target="_blank" class="backlink_a">GSpeech</a></span></span></span>
         	</span>'.$hidespeaker_af;
         }
         
@@ -342,8 +342,10 @@ function wpgs_start_speeching() {
 }
 
 function wpgs_make_ob_end_flush() {
-	ob_end_flush();
+	if (ob_get_level() != 0) 
+		ob_end_flush();
 }
 register_shutdown_function('wpgs_make_ob_end_flush');
 add_action('wp_loaded', 'wpgs_start_speeching');
+
 ?>
