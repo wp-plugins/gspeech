@@ -23,7 +23,7 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 ### Features:
 * Allows to listen any text from the site.
 * Listen to selected text. Speaker will apear, when You select a part of the text.
-* Autoplay Feature. [See Demo](http://2glux.com/projects/gspeech/demo)
+* Autoplay Feature. [See Demo](http://creative-solutions.net/wordpress/gspeech/demo)
 * Feature to set greeting audio for your users. 
 * Feature to set different greetings for loged in users.
 * Speaking menus. Users can listen menus when they hover them!
@@ -51,10 +51,10 @@ Please `use` [Support Forum](http://creative-solutions.net/forum/gspeech-wordpre
 * ***GSpeech structure with all parameters will be***
 `{gspeech style=2 language=en autoplay=1 speechtimeout=0 registered=0 selector=anyselector event=anyevent hidespeaker=1}welcome{/gspeech}`
 
-For more details, please read the [Documentation](http://2glux.com/projects/gspeech/documentation).
+For more details, please read the [Documentation](http://creative-solutions.net/wordpress/gspeech/documentation).
 
 ### Support:
-Please `use` [GSpeech Forum](http://2glux.com/forum/gspeech/) for your questions and support requests!
+Please `use` [GSpeech Forum](http://creative-solutions.net/forum/gspeech-wordpress/) for your questions and support requests!
 
 = Requirements =
 You must have [curl](http://php.net/manual/en/book.curl.php) library enabled on your hosting!
