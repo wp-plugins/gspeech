@@ -14,11 +14,9 @@ GSpeech is a text to speech solution which uses Google power and allows to liste
 
 ### Useful Links:
 > * [Live Demo](http://creative-solutions.net/wordpress/gspeech/demo)  
+> * [Project Homepage](http://creative-solutions.net/wordpress/gspeech)  
 > * [Documentation](http://creative-solutions.net/wordpress/gspeech/documentation)  
 > * [Support Forum](http://creative-solutions.net/forum/gspeech-wordpress/)
-
-= Download the latest version =
-[Download GSpeech](http://creative-solutions.net/wordpress/gspeech) from our website and enable the following features:
 
 ### Features:
 * Allows to listen any text from the site.
